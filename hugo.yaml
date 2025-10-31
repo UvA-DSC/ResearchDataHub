@@ -22,7 +22,7 @@ menu:
       pageRef: /
       weight: 1
     - name: Contact ↗
-      url: "mailto:j.w.moorlag@uva.nl?cc=e.e.schreurs@uva.nl&subject=RDH%20project%20contact%20request"
+      url: "mailto:mailto:rdh-ub@uva.nl&subject=RDH%20project%20contact%20request"
       weight: 2
 
 params:
