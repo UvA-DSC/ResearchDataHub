@@ -42,6 +42,9 @@ This project is a collaboration between the **University Library**, the **ICTS d
 | Rachael van der Moezel      | Metadata Specialist   | Library                 |
 | Zahay Boukich      | Software Engineer   | Library                 |
 | Tim Fierens      | Software Engineer   | ICTS                 |
+| Geert Boetzkes      | Software Engineer   | ICTS                 |
+| Daan van Versendaal      | RDM Coördinator   | Library                 |
+| Hadewijch Dekker      | Metadata Specialist   | Library                 |
 
 ## Steering Committee
 
